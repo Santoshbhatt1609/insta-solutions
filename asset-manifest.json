@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/insta-solutions/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/insta-solutions/static/js/main.374ae6d2.chunk.js",
+    "main.js.map": "/insta-solutions/static/js/main.374ae6d2.chunk.js.map",
+    "runtime-main.js": "/insta-solutions/static/js/runtime-main.aed55bfa.js",
+    "runtime-main.js.map": "/insta-solutions/static/js/runtime-main.aed55bfa.js.map",
+    "static/js/2.d7225a5c.chunk.js": "/insta-solutions/static/js/2.d7225a5c.chunk.js",
+    "static/js/2.d7225a5c.chunk.js.map": "/insta-solutions/static/js/2.d7225a5c.chunk.js.map",
+    "static/js/3.f70ea9c4.chunk.js": "/insta-solutions/static/js/3.f70ea9c4.chunk.js",
+    "static/js/3.f70ea9c4.chunk.js.map": "/insta-solutions/static/js/3.f70ea9c4.chunk.js.map",
+    "index.html": "/insta-solutions/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/insta-solutions/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d7225a5c.chunk.js.LICENSE.txt": "/insta-solutions/static/js/2.d7225a5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aed55bfa.js",
+    "static/js/2.d7225a5c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.374ae6d2.chunk.js"
+  ]
+}
